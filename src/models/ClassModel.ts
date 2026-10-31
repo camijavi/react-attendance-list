@@ -1,4 +1,4 @@
-export interface ClassRecord {
+export interface ClassModel {
     id: string;
     userId: string;
     name: string;

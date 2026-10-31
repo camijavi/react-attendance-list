@@ -1,4 +1,4 @@
-export interface StudentRecord {
+export interface StudentModel {
     id: string;
     userdId: string;
     fullName: string;
